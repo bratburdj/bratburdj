@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 <!--
 **bratburdj/bratburdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Developing workflows for environmental data analysis. 
+
+Find more about my work with:
+* [HAQAST](https://haqast.org/staff/bratburd-jenny/)
+* [Climate Solutions for Health](https://www.climatesolutionsforhealth.org/about-us)
+* [Center for Sustainability of the Global Environment](https://sage.nelson.wisc.edu/staff/bratburd-jenny/)
